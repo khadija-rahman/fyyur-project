@@ -81,7 +81,7 @@ Instructions
   5. Implement search, powering the `/search` endpoints that serve the application's search functionalities.
   6. Serve venue and artist detail pages, powering the `<venue|artist>/<id>` endpoints that power the detail pages.
 
-
+<!-- add html csrf and form errors -->
 Acceptance Criteria
 -----
 
@@ -141,3 +141,4 @@ To start and run the local development server,
   ```
 
 4. Navigate to Home page [http://localhost:5000](http://localhost:5000)
+
